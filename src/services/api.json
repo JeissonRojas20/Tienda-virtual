@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": "1724787353511",
+      "name": "Feliway MultiCat (48 ml) Relleno de difusor | Armonía constante y calma entre gatos en casa",
+      "basePrice": "",
+      "discount": "10",
+      "category": "Salud",
+      "image": "https://m.media-amazon.com/images/I/71uqpoCkZcL._AC_SL1500_.jpg",
+      "description": "FELIWAY MultiCat, desarrollado por la marca #1 recomendada por veterinarios, imita las feromonas naturales de una madre gata para ayudar a reducir los signos comunes de tensión entre gatos, como: conflicto, pelea, persecución y bloqueo.",
+      "sizes": [
+        {
+          "size": "100ml",
+          "price": "200000",
+          "discountedPrice": 180000
+        }
+      ],
+      "companyName": "Super Natural Barf",
+      "quantity": "10"
+    }
+  ],
+  "users": [
+    {
+      "id": "1723604992627",
+      "name": "Carmen Palacios",
+      "email": "palera@vvianstr.com",
+      "number": "3122933688",
+      "adress": "Calle 1231 123j1ij3i12",
+      "password": "Hola2006",
+      "confirmPassword": "Hola2006",
+      "rol": "customer"
+    },
+    {
+      "id": "1723608797884",
+      "name": "Jeisson David Rojas Palacios",
+      "email": "jdrojas7000@misena.edu.co",
+      "number": "3236146958",
+      "adress": "Calle 133 # 132 B 32",
+      "password": "Admin123",
+      "confirmPassword": "Admin123",
+      "rol": "admin"
+    },
+    {
+      "id": "1723610820471",
+      "name": "Mascolandia",
+      "email": "mascolandia@gmail.com",
+      "number": "31222222222",
+      "adress": "Plaza imperial",
+      "password": "Hola2006",
+      "confirmPassword": "Hola2006",
+      "rol": "company"
+    },
+    {
+      "id": "1723640988878",
+      "name": "Super Natural Barf",
+      "email": "supernatural@gmail.com",
+      "number": "312405423",
+      "adress": "Calle 123 # 21 C 12",
+      "password": "super123",
+      "confirmPassword": "super123",
+      "rol": "company"
+    },
+    {
+      "id": "1724596102136",
+      "name": "Jeisson David Rojas Palacios",
+      "email": "jdrojas7000@misena.edu.co",
+      "number": "3122933699",
+      "adress": "Calle 123 # 34 N 21",
+      "password": "Hola2006",
+      "confirmPassword": "Hola2006",
+      "rol": "customer"
+    }
+  ],
+  "orders": [
+    {
+      "id": "8ebc",
+      "name": "Jeisson David Rojas Palacios",
+      "address": "Calele",
+      "total": 180000,
+      "products": [
+        {
+          "id": "1724787353511",
+          "name": "Feliway MultiCat (48 ml) Relleno de difusor | Armonía constante y calma entre gatos en casa",
+          "quantity": 1,
+          "price": 180000
+        }
+      ],
+      "date": "2024-08-27T21:29:12.221Z"
+    },
+    {
+      "id": "f051",
+      "name": "Carmen Palacios",
+      "address": "casdedas",
+      "total": 180000,
+      "products": [
+        {
+          "id": "1724787353511",
+          "name": "Feliway MultiCat (48 ml) Relleno de difusor | Armonía constante y calma entre gatos en casa",
+          "quantity": 1,
+          "price": 180000
+        }
+      ],
+      "date": "2024-08-27T21:33:01.993Z"
+    },
+    {
+      "id": "19ee",
+      "name": "Jeisson David Rojas Palacios",
+      "address": "dsadasd",
+      "total": 180000,
+      "products": [
+        {
+          "id": "1724787353511",
+          "name": "Feliway MultiCat (48 ml) Relleno de difusor | Armonía constante y calma entre gatos en casa",
+          "quantity": 1,
+          "price": 180000
+        }
+      ],
+      "date": "2024-08-27T21:34:34.664Z"
+    },
+    {
+      "id": "84b2",
+      "name": "Glorious cakes",
+      "address": "Callw 12321321",
+      "total": 180000,
+      "products": [
+        {
+          "id": "1724787353511",
+          "name": "Feliway MultiCat (48 ml) Relleno de difusor | Armonía constante y calma entre gatos en casa",
+          "quantity": 1,
+          "price": 180000
+        }
+      ],
+      "date": "2024-08-28T03:55:19.724Z"
+    }
+  ]
+}
